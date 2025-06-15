@@ -16,7 +16,7 @@ DIY-console, what you can create from ready to use modules.
 
 ## Where i can buy Lilka?
 
-All links and instructions are available(now aviable only in Ukraine) [here].(https://lilka.dev/shop/)!
+All links and instructions are available(now aviable only in Ukraine) [here](https://lilka.dev/shop/)!
 
 ## Demo
 
@@ -34,7 +34,7 @@ Full project documentation is available here: <https://docs.lilka.dev>
 
 ## Community
 
-Join [our Discord server].[discord]!
+Join [our Discord server][discord]!
 
 ## I want to help write code!
 

@@ -24,7 +24,7 @@ News about the Lilka V2 project:
 
 [![News about the Lilka project](https://img.youtube.com/vi/Xh49N__p2jE/hqdefault.jpg)](https://www.youtube.com/watch?v=Xh49N__p2jE)
 
-Перша версія Лілки:
+First version of Lilka:
 
 [![Project "Lilka"](https://img.youtube.com/vi/6Tz70vqRrs0/hqdefault.jpg)](https://www.youtube.com/watch?v=6Tz70vqRrs0)
 

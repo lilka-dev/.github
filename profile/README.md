@@ -10,13 +10,13 @@
 [![sdk](https://github.com/lilka-dev/sdk/actions/workflows/sdk.yml/badge.svg)](https://github.com/lilka-dev/sdk/actions/workflows/sdk.yml)
 [![Discord](https://img.shields.io/discord/1202315568846213172?label=Discord)][discord]
 
-DIY-console, what you can create from ready to use modules.
+DIY console you can build from ready-to-use modules.
 
 ![Лілка v2](./img/v21.jpg)
 
-## Where i can buy Lilka?
+## Where can I buy Lilka?
 
-All links and instructions are available(now available only in Ukraine) [here](https://lilka.dev/shop/)!
+All links and instructions are available [here](https://lilka.dev/shop/) (currently only in Ukraine).
 
 ## Demo
 
@@ -38,10 +38,10 @@ Join [our Discord server][discord]!
 
 ## I want to help write code!
 
-We will be only too happy! There are several options:
+We'd be happy to have your help! There are several ways to contribute:
 
-- Do you want to write a game, program, documentation, or something else? Sure! The documentation is available [here (C++)](https://docs.lilka.dev/uk/latest/keira/custom_apps/) and [here (Lua)](https://docs.lilka.dev/uk/latest/keira/lua/intro/).
-- Want to help improve the code? Run the `make todo' command and it will display all the TODOs from the code where help is needed.
-- Want to help with ideas? Found a bug or have an idea for improving the architecture? Create a new ticket or write to our [Discord][discord] forum `#lilka`.
+- Want to write a game, an app, documentation, or something else? Great! The documentation is available [here (C++)](https://docs.lilka.dev/uk/latest/keira/custom_apps/) and [here (Lua)](https://docs.lilka.dev/uk/latest/keira/lua/intro/).
+- Want to help improve the code? Run the `make todo` command to list TODOs in the codebase where help is needed.
+- Want to help with ideas? Found a bug or have an idea to improve the architecture? Create a new issue or message us on our [Discord][discord] forum `#lilka`.
 
 [discord]: https://discord.gg/HU68TaKCu6

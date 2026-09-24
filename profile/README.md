@@ -8,8 +8,7 @@
 [![PlatformIO Registry](https://badges.registry.platformio.org/packages/lilka/library/Lilka.svg)](https://registry.platformio.org/libraries/lilka/Lilka)
 [![firmware](https://github.com/lilka-dev/keira/actions/workflows/firmware.yml/badge.svg?event=release)](https://github.com/lilka-dev/keira/actions/workflows/firmware.yml?query=event%3Arelease)
 [![release](https://img.shields.io/github/v/release/lilka-dev/keira)](https://github.com/lilka-dev/keira/releases)
-[[![sdk](https://github.com/lilka-dev/sdk/actions/workflows/sdk.yml/badge.svg)](https://github.com/lilka-dev/sdk/actions/workflows/sdk.yml)
-](https://img.shields.io/github/v/release/lilka-dev/sdk)
+[[![sdk](https://github.com/lilka-dev/sdk/actions/workflows/sdk.yml/badge.svg)](https://github.com/lilka-dev/sdk/actions/workflows/sdk.yml)](https://img.shields.io/github/v/release/lilka-dev/sdk)
 [![Discord](https://img.shields.io/discord/1202315568846213172?label=Discord)][discord]
 
 DIY console you can build from ready-to-use modules.
